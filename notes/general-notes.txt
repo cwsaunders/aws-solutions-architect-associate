@@ -1,0 +1,36 @@
+            Five pillars:
+
+1. Security
+    a. Identity and key management (IAM, KMS)
+    b. Encryption
+    c. Security monitoring and logging
+    d. Dedicated instances
+    e. Compliance
+    f. Governance
+2. Cost Optimization
+    a. Reserved and spot instances
+    b. Volume tuning
+    c. Service selection
+    d. Consolidated billing
+    e. Resource utilization
+    f. Decommisioning
+3. Reliability
+    a. Service limits
+    b. Multi-AZ/region
+    c. Health checks & monitoring
+    d. Networking
+    e. Self-healing & disaster recovery
+4. Performance Efficiency
+    a. Right AWS services
+    b. Storage architecture
+    c. Resource utilization
+    d. caching
+    e. Latency requirements
+    f. Planning & benchmarking
+5. Operational Excellence
+    a. CI/CD
+    b. Runbooks
+    c. Playbooks
+    d. Game days
+    e. Infrastructure as Code
+    f. RCAs
