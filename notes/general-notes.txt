@@ -1,0 +1,53 @@
+            Five pillars:
+
+1. Security
+    a. Identity and key management (IAM, KMS)
+    b. Encryption
+    c. Security monitoring and logging
+    d. Dedicated instances
+    e. Compliance
+    f. Governance
+2. Cost Optimization
+    a. Reserved and spot instances
+    b. Volume tuning
+    c. Service selection
+    d. Consolidated billing
+    e. Resource utilization
+    f. Decommisioning
+3. Reliability
+    a. Service limits
+    b. Multi-AZ/region
+    c. Health checks & monitoring
+    d. Networking
+    e. Self-healing & disaster recovery
+4. Performance Efficiency
+    a. Right AWS services
+    b. Storage architecture
+    c. Resource utilization
+    d. caching
+    e. Latency requirements
+    f. Planning & benchmarking
+5. Operational Excellence
+    a. CI/CD
+    b. Runbooks
+    c. Playbooks
+    d. Game days
+    e. Infrastructure as Code
+    f. RCAs
+
+            Understand AWS services:
+            
+1. Networking and content delivery
+    a. VPC, Subnets, Direct Connect, Security groups, Route 53, Global Accelerator, CIDR Blocks, CloudFront
+2. Security, Identity & Compliance
+    a. WAF, IAM, Shield, AWS Config, KMS, Secrets Manager, Guard Duty, AWS Organizations
+3. Compute
+    a. Auto Scaling, Elastic Beanstalk, EC2, Batch, ECS, HPC, Lambda, EKS
+4. Application Integration
+    a. SNS, SQS, SWF, Amazon MQ, DMS, EventBridge, AppFlow, Step Functions
+5. Storage
+    a. EFS, FSx, Storage Gateway, S3
+6. Databases
+    a. RDS, Neptune, DynamoDB, ElastiCache
+7. Analytics
+    a. Athena, EMR, Redshift, Kinesis
