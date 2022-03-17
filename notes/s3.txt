@@ -1,0 +1,2 @@
+The Reduced Redundancy Storage (RRS) storage class is designed for noncritical, reproducible data that can be stored with less redundancy than the S3 Standard storage class. For frequently-accessed objects. Not recommended to use this class.
+
